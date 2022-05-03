@@ -25,8 +25,8 @@ Ignacio Tabárez\
 Virginia grajales
 
 ----
-- Error en ruta de private_key - Archivo instances.tf\
-- Cambio perfil en Terraform.tfvars\
-- Cambio de puerto "88" por "80"\
-- Network.tf, línea 40, se cambia para ip 0.0.0.0\
-- Se agrega la subnetid\
+- Error en ruta de private_key - Archivo instances.tf
+- Cambio perfil en Terraform.tfvars
+- Cambio de puerto "88" por "80"
+- Network.tf, línea 40, se cambia para ip 0.0.0.0
+- Se agrega la subnetid
