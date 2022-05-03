@@ -20,8 +20,8 @@ El resultado debe ser la web de "Caffé" visualizada desde la url del LoadBalanc
 ---
 ## Autores ✒️
 
-Rodigo Santomauro
-Ignacio Tabárez
+Rodigo Santomauro\
+Ignacio Tabárez\
 Virginia grajales
 
 ----
